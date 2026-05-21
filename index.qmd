@@ -70,7 +70,7 @@ Prof. Naghely Mendoza
 
 </small> </small> Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007) </small> </small>
 
-![](lluviaeto.png){fig-alt="Gráfico de barras de lluvia y evapotranspiración diaria"}
+![](tiempo.png)
 :::
 :::::
 
@@ -316,20 +316,54 @@ Variaciones del estado medio y otras características estadísticas (desviación
 
 ## Usos de la Información con fines agrícolas y/o ambientales
 
-::: {style="overflow-x: auto;"}
-+----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tipo de uso                            | Datos climáticos requeridos                        | Productos                                                                 | Actividades que apoya                                                                                                                                                |
-+========================================+====================================================+===========================================================================+======================================================================================================================================================================+
-| **Planificación Estratégica**\         | Registros largos (\> 20 años)                      | Valores probables, promedio, fluctuaciones, extremos, períodos de retorno | Selección de especies • Zonificación de cultivos • Uso y manejo de la tierra • Selección de sistemas de labranza • Diseño de infraestructura • Calendarios agrícolas |
-| Consecuencias a largo plazo            |                                                    |                                                                           |                                                                                                                                                                      |
-+----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Planificación Táctica y Operativa**\ | Situación actual + pronóstico + registro histórico | Pronóstico y recomendación para próximas horas                            | Decisión de siembra y cosecha • Control de temperatura y humedad • Operación de riego                                                                                |
-| Consecuencias a corto plazo            |                                                    |                                                                           |                                                                                                                                                                      |
-+----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Investigación**\                     | Medidos en el lugar de ensayo + registros          | Descripción de condiciones del ensayo y comparación                       | Comprensión de procesos y relaciones                                                                                                                                 |
-| Generación de nuevos conocimientos     |                                                    |                                                                           |                                                                                                                                                                      |
-+----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-:::
+<div style="overflow-x: auto;">
+
+<table style="width: 100%; border-collapse: collapse; font-size: 18px; border: 1px solid #aaa;">
+  
+  <tr style="background: #f0f0f0;">
+    <th style="border: 1px solid #aaa; padding: 12px;">Tipo de uso</th>
+    <th style="border: 1px solid #aaa; padding: 12px;">Datos climáticos requeridos</th>
+    <th style="border: 1px solid #aaa; padding: 12px;">Productos</th>
+    <th style="border: 1px solid #aaa; padding: 12px;">Actividades que apoya</th>
+  </tr>
+  
+  <tr style="vertical-align: top;">
+    <td style="border: 1px solid #aaa; padding: 10px;">
+      <strong>Planificación Estratégica</strong><br>
+      <span style="font-size: 16px;">Consecuencias a largo plazo</span>
+    </td>
+    <td style="border: 1px solid #aaa; padding: 10px;">Registros largos (> 20 años)</td>
+    <td style="border: 1px solid #aaa; padding: 10px;">Valores probables, promedio, fluctuaciones, valores extremos, períodos de retorno</td>
+    <td style="border: 1px solid #aaa; padding: 10px;">
+      Selección de especies • Zonificación de cultivos • Uso y manejo de la tierra • Selección de sistemas de labranza • Diseño de infraestructura • Calendarios agrícolas
+    </td>
+   </tr>
+  
+  <tr style="background: #f9f9f9; vertical-align: top;">
+    <td style="border: 1px solid #aaa; padding: 10px;">
+      <strong>Planificación Táctica y Operativa</strong><br>
+      <span style="font-size: 16px;">Consecuencias a corto plazo</span>
+     </td>
+    <td style="border: 1px solid #aaa; padding: 10px;">Situación actual + pronóstico + registro histórico + pronóstico climático</td>
+    <td style="border: 1px solid #aaa; padding: 10px;">Pronóstico y recomendación para próximas horas</td>
+    <td style="border: 1px solid #aaa; padding: 10px;">
+      Decisión de siembra y cosecha • Control de temperatura y humedad • Operación de riego
+     </td>
+   </tr>
+  
+  <tr style="vertical-align: top;">
+    <td style="border: 1px solid #aaa; padding: 10px;">
+      <strong>Investigación</strong><br>
+      <span style="font-size: 16px;">Generación de nuevos conocimientos</span>
+     </td>
+    <td style="border: 1px solid #aaa; padding: 10px;">Medidos en el lugar de ensayo + registros</td>
+    <td style="border: 1px solid #aaa; padding: 10px;">Descripción de condiciones del ensayo y comparación</td>
+    <td style="border: 1px solid #aaa; padding: 10px;">Comprensión de procesos y relaciones</td>
+   </tr>
+  
+</table>
+
+</div>
 
 ## Asi entonces..
 
