@@ -1,6 +1,6 @@
 ---
 title: "Clase 01: Introducción a la Climatología Agroambiental"
-author: "Prof. Miguel Silva" 
+author: "Prof. Miguel Silva"  
 format:
   revealjs:
     incremental: true
