@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "index.html#diapositiva-1",
+    "href": "index.html#diapositiva-1",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Diapositiva 1",
+    "text": "Diapositiva 1\nHola, esta es mi primera diapositiva"
+  },
+  {
+    "objectID": "index.html#paso-4-genera-las-diapositivas",
+    "href": "index.html#paso-4-genera-las-diapositivas",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Paso 4: Genera las diapositivas",
+    "text": "Paso 4: Genera las diapositivas\nHaz clic en el botón Render (arriba, con un icono de un hilo azul)\n¡Ya tienes tu presentación! Se abrirá automáticamente en tu navegador."
+  },
+  {
+    "objectID": "index.html#cómo-navegar",
+    "href": "index.html#cómo-navegar",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "¿Cómo navegar?",
+    "text": "¿Cómo navegar?\nUna vez abierta la presentación: - Flecha derecha → diapositiva siguiente - Flecha izquierda → diapositiva anterior - ESC → vista general"
+  },
+  {
+    "objectID": "index.html#qué-significan-los-símbolos",
+    "href": "index.html#qué-significan-los-símbolos",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "¿Qué significan los símbolos?",
+    "text": "¿Qué significan los símbolos?\n\n## = nueva diapositiva\n```{r} = bloque de código R\n--- = separador entre configuración y contenido"
+  },
+  {
+    "objectID": "index.html#y-si-quiero-solo-texto-sin-código-r",
+    "href": "index.html#y-si-quiero-solo-texto-sin-código-r",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "¿Y si quiero solo texto, sin código R?",
+    "text": "¿Y si quiero solo texto, sin código R?"
+  },
+  {
+    "objectID": "index.html#contenido",
+    "href": "index.html#contenido",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Contenido",
+    "text": "Contenido\n-El clima como parte del ambiente físico y su importancia\n-Características del clima como recurso\n-Usos agroambientales de la información climática: planificación estratégica, táctica y operativa\n-Pasos para la aplicación de información climática; medición y procesamiento\n-Integración con la información sobre la aplicación"
+  },
+  {
+    "objectID": "index.html#personal-docente",
+    "href": "index.html#personal-docente",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Personal docente",
+    "text": "Personal docente\nProf. Miguel Silva\nProf. Naghely Mendoza"
+  },
+  {
+    "objectID": "index.html#estructura-de-la-asignatura",
+    "href": "index.html#estructura-de-la-asignatura",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Estructura de la asignatura",
+    "text": "Estructura de la asignatura\n-Tema 1. Introducción y conceptos básicos\n-Tema 2. Radiación y Balance energético\n-Tema 3. Temperatura\n-Tema 4. Evaporación y Evapotranspiración\n-Tema 5. Precipitación y régimen hídrico\n-Tema 6. Aplicaciones de la climatología"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "",
+    "text": "Tiempo meteorológico\n  Condición de la atmósfera en un momento particular definida por el comportamiento de los elementos climáticos en ese momento  \n\n\nClima\n  Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007)"
+  },
+  {
+    "objectID": "index.html#todos-los-factores",
+    "href": "index.html#todos-los-factores",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Todos los factores",
+    "text": "Todos los factores"
+  },
+  {
+    "objectID": "index.html#factores-de-producción-agrícola",
+    "href": "index.html#factores-de-producción-agrícola",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Factores de producción agrícola",
+    "text": "Factores de producción agrícola\nFactores:\n\n🌱 Suelo\n🌍 Ambiente físico\n\n☀️ Clima\n🦠 Agentes bióticos\n⚙️ Tecnología\n🖐️ Prácticas de manejo\n🌳 Ecosistemas naturales\n💰 Aspectos socioeconómicos\n🧬 Potencial genético de la variedad o raza"
+  },
+  {
+    "objectID": "index.html#los-sistemas-de-producción-agrícola-y-los-ecosistemas-naturales",
+    "href": "index.html#los-sistemas-de-producción-agrícola-y-los-ecosistemas-naturales",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Los sistemas de producción agrícola y los ecosistemas naturales",
+    "text": "Los sistemas de producción agrícola y los ecosistemas naturales\n No dependen de un solo factor, sino de la interacción entre varios componentes del ambiente y de la acción humana. \n\n🌱 Suelo - 🖐️ Prácticas de manejo\n🌍 Ambiente físico - 🌳 Ecosistemas naturales\n🦠 Agentes bióticos - 💰 Aspectos socioeconómicos\n⚙️ Tecnología - 🧬 Potencial genético de la variedad o raza\n\n La climatología agroambiental no estudia solo el clima como dato meteorológico, sino cómo ese clima se relaciona con el funcionamiento real de los sistemas productivos y naturales."
+  },
+  {
+    "objectID": "index.html#factores-del-clima",
+    "href": "index.html#factores-del-clima",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Factores del clima",
+    "text": "Factores del clima\nSon características de la superficie terrestre o condiciones de la atmósfera que modifican a los elementos climáticos\n\nLatitud\nAltitud\nCercanía a masas de agua\nTopografía\nDistribución de las masas de tierra y agua\nCorrientes oceánicas\nCentros de altas y bajas presiones\nMasas de aire"
+  },
+  {
+    "objectID": "index.html#la-agrometeorología",
+    "href": "index.html#la-agrometeorología",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "La agrometeorología",
+    "text": "La agrometeorología\n\nEstudia la acción mutua de las variables atmosféricas y la agricultura en su sentido más amplio.\nComprende desde la capa de suelo donde crecen las raíces mas profundas de árboles y plantas, pasando por la capa de aire próxima al suelo, en la que viven cultivos, árboles y animales, hasta alcanzar los más elevados niveles de la atmosfera en donde ocurren procesos como transporte y dispersión de polvo, semillas y polen."
+  },
+  {
+    "objectID": "index.html#necesidad-de-formación-básica-en-agrometeorología",
+    "href": "index.html#necesidad-de-formación-básica-en-agrometeorología",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Necesidad de formación básica en agrometeorología",
+    "text": "Necesidad de formación básica en agrometeorología\n\nConocimiento básico de los elementos climáticos y su efecto en el ambiente y la agricultura (cultivos y labores)\nConocimiento de las características generales del clima del país: de los patrones de sus elementos climáticos, de su variabilidad temporal y espacial\nManejo de métodos estadísticos para la evaluación del clima y uso de herramientas para el análisis de las consecuencias agrícolas y ambientales de las condiciones climáticas."
+  },
+  {
+    "objectID": "index.html#el-clima-como-recurso",
+    "href": "index.html#el-clima-como-recurso",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "El Clima como recurso",
+    "text": "El Clima como recurso\n\nProvee condiciones de radiación, temperatura y agua para la vida.\nDetermina los ciclos bioquímicos.\nDetermina la fotosíntesis y la respiración\nProvee insumos para la actividad humana: agricultura, industria, doméstica, transporte, turismo, recreación.\nFuente de energía.\nLa atmósfera absorbe productos de desecho de las actividades económicas y sociales."
+  },
+  {
+    "objectID": "index.html#el-clima-como-peligro",
+    "href": "index.html#el-clima-como-peligro",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "El clima como peligro",
+    "text": "El clima como peligro\n\nVariaciones en los elementos climáticos a lo largo del año\nVariaciones en los elementos entre años\nVariaciones en fechas de inicio y término de los períodos húmedos\nEventos extremos:Lluvias, Sequias, Vientos, Olas de calor o de frío\nCambio climático"
+  },
+  {
+    "objectID": "index.html#particularidades-del-clima-como-recurso",
+    "href": "index.html#particularidades-del-clima-como-recurso",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Particularidades del clima como recurso",
+    "text": "Particularidades del clima como recurso\n\nEstamos familiarizados con la idea de recursos para la producción que se manejan a través de la aplicación de insumos, o del mejoramiento genético, no obstante..\nSe trata de un recurso generalmente no “controlable” en el sentido tradicional.\nManejar el recurso clima, implica tomar decisiones estratégicas, tácticas y operativas para armonizar la oferta y las limitaciones climáticas con los requerimientos climáticos."
+  },
+  {
+    "objectID": "index.html#particularidades-del-clima-como-recurso-1",
+    "href": "index.html#particularidades-del-clima-como-recurso-1",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Particularidades del clima como recurso",
+    "text": "Particularidades del clima como recurso\nDebemos garantizar que confluya el mecanismo análogo al enzima-sustrato:\n\nEnzima = Oferta = Clima\nSustrato = Demanda = Requerimientos de cultivos, plagas y labores"
+  },
+  {
+    "objectID": "index.html#particularidades-del-clima-como-recurso-para-la-producción-agrícola",
+    "href": "index.html#particularidades-del-clima-como-recurso-para-la-producción-agrícola",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Particularidades del clima como recurso para la producción agrícola",
+    "text": "Particularidades del clima como recurso para la producción agrícola\n\nEn muchas áreas de la agronomía se acostumbra resumir los datos utilizando el promedio 🛑 ❌\nDebido a su gran variabilidad espacial y temporal.\nLos profesionales tienen que ser formados para que analicen el clima en términos de probabilidad y para que comprendan que dicha variabilidad es una fuente muy importante de riesgo agrícola. ✅"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "",
+    "text": "LAS CONDICIONES ATMOSFÉRICAS VARÍAN EN DIVERSAS ESCALAS TEMPORALES"
+  },
+  {
+    "objectID": "index.html#a-traves-de-la-armonización-entre-la-oferta-y-la-demanda-climática-se-busca",
+    "href": "index.html#a-traves-de-la-armonización-entre-la-oferta-y-la-demanda-climática-se-busca",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "A traves de la armonización entre la oferta y la demanda climática se busca:",
+    "text": "A traves de la armonización entre la oferta y la demanda climática se busca:\n\nMaximizar rendimientos\nMejorar el uso de recursos\nReducir Riesgos\nReducir costos\nReducir daños ambientales"
+  },
+  {
+    "objectID": "index.html#variación-a-corto-plazo",
+    "href": "index.html#variación-a-corto-plazo",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Variación a corto plazo",
+    "text": "Variación a corto plazo"
+  },
+  {
+    "objectID": "index.html#variación-a-largo-plazo",
+    "href": "index.html#variación-a-largo-plazo",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Variación a largo plazo",
+    "text": "Variación a largo plazo"
+  },
+  {
+    "objectID": "index.html#variación-a-largo-del-ano",
+    "href": "index.html#variación-a-largo-del-ano",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Variación a largo del ano",
+    "text": "Variación a largo del ano"
+  },
+  {
+    "objectID": "index.html#variacion-espacial",
+    "href": "index.html#variacion-espacial",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Variacion espacial",
+    "text": "Variacion espacial"
+  },
+  {
+    "objectID": "index.html#variacion-interanual",
+    "href": "index.html#variacion-interanual",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Variacion interanual",
+    "text": "Variacion interanual"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "",
+    "text": "Variabilidad climática:\nVariaciones del estado medio y otras características estadísticas (desviación típica, sucesos extremos, etc.) del clima en todas las escalas espaciales y temporales más amplias que las de los fenómenos meteorológicos (IPCC, 2023)"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "",
+    "text": "📊 Datos climáticos  Radiación, Fotoperíodo, Insolación, Temperatura, Precipitación, Evaporación, Viento\n\n\n\n🌱 Datos agronómicos y ambientales  Cultivo, Suelo, Labores, Pendiente, Relieve, Plagas, Enfermedades\n\n\n\n\n\n⬇️\n\n\n⬇️\n\n\n\n\n\nℹ️ Información con fines agrícolas y ambientales\n\n\n\n\n\n⬇️\n\n\n\n\n\n🎯 TOMA DE DECISIONES"
+  },
+  {
+    "objectID": "index.html#pasos-para-la-aplicación-de-la-información-climática",
+    "href": "index.html#pasos-para-la-aplicación-de-la-información-climática",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Pasos para la aplicación de la información climática",
+    "text": "Pasos para la aplicación de la información climática\n\n\n\n📋 Datos brutos Datos estimados, Datos generados, Medición\n\n\n⬇️\n\n\n\n\n🌡️ Bases de datos climáticos\n\n\n🗄️ Bases de datos agroambientales\n\n\n\n\n\n⬇️\n\n\n⬇️\n\n\n\n\n⚙️ PROCESAMIENTOControl de calidad\n\n\n⬇️\n\n\n\n🎯 INFORMACIÓN CON FINES AGRÍCOLAS Y/O AMBIENTALES"
+  },
+  {
+    "objectID": "index.html#usos-de-la-información-de-tiempo-y-clima-con-fines-agroambientales",
+    "href": "index.html#usos-de-la-información-de-tiempo-y-clima-con-fines-agroambientales",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "USOS DE LA INFORMACIÓN DE TIEMPO Y CLIMA CON FINES AGROAMBIENTALES",
+    "text": "USOS DE LA INFORMACIÓN DE TIEMPO Y CLIMA CON FINES AGROAMBIENTALES\n\nPlanificación estratégica (tiene consecuencias en el largo plazo)\nPlanificación Táctica (consecuencias involucran una estación o un ciclo de cultivo)\nPlanificación operativa (tiene consecuencias en el corto plazo)\nInterpretación de resultados experimentales"
+  },
+  {
+    "objectID": "index.html#usos-de-la-información-meteorológica",
+    "href": "index.html#usos-de-la-información-meteorológica",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Usos de la información meteorológica",
+    "text": "Usos de la información meteorológica\n\n\n\n\nTipo de uso\n\n\nDatos climáticos requeridos\n\n\nProductos\n\n\nActividades que apoya\n\n\n\n\nPlanificación EstratégicaConsecuencias a largo plazo\n\n\nRegistros largos (&gt; 20 años)\n\n\nValores probables, promedio, fluctuaciones, extremos, períodos de retorno\n\n\nSelección de especies • Zonificación de cultivos • Uso y manejo de la tierra • Selección de sistemas de labranza • Diseño de infraestructura • Calendarios agrícolas\n\n\n\n\nPlanificación Táctica y OperativaConsecuencias a corto plazo\n\n\nSituación actual + pronóstico + registro histórico\n\n\nPronóstico y recomendación para próximas horas\n\n\nDecisión de siembra y cosecha • Control de temperatura y humedad • Operación de riego\n\n\n\n\nInvestigaciónGeneración de nuevos conocimientos\n\n\nMedidos en el lugar de ensayo + registros\n\n\nDescripción de condiciones del ensayo y comparación\n\n\nComprensión de procesos y relaciones\n\n\n\n\n\n🔘 Activar Windows ⚙️ Ve a Configuración para activar Windows."
+  },
+  {
+    "objectID": "index.html#usos-de-la-información-meteorológica-en-agricultura-y-ambiente",
+    "href": "index.html#usos-de-la-información-meteorológica-en-agricultura-y-ambiente",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Usos de la información meteorológica en agricultura y ambiente",
+    "text": "Usos de la información meteorológica en agricultura y ambiente\n\n\n\n\nTipo de uso\n\n\nDatos climáticos requeridos\n\n\nProductos\n\n\nActividades que apoya\n\n\n\n\nPlanificación EstratégicaConsecuencias a largo plazo\n\n\nRegistros largos (&gt; 20 años)\n\n\nValores probables, promedio, fluctuaciones, extremos, períodos de retorno\n\n\nSelección de especies • Zonificación de cultivos • Uso y manejo de la tierra • Selección de sistemas de labranza • Diseño de infraestructura • Calendarios agrícolas\n\n\n\n\nPlanificación Táctica y OperativaConsecuencias a corto plazo\n\n\nSituación actual + pronóstico + registro histórico\n\n\nPronóstico y recomendación para próximas horas\n\n\nDecisión de siembra y cosecha • Control de temperatura y humedad • Operación de riego\n\n\n\n\nInvestigaciónGeneración de nuevos conocimientos\n\n\nMedidos en el lugar de ensayo + registros\n\n\nDescripción de condiciones del ensayo y comparación\n\n\nComprensión de procesos y relaciones\n\n\n\n\n\n🔘 Activar Windows ⚙️ Ve a Configuración para activar Windows."
+  },
+  {
+    "objectID": "index.html#usos-de-la-información-con-fines-agrícolas-yo-ambientales",
+    "href": "index.html#usos-de-la-información-con-fines-agrícolas-yo-ambientales",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Usos de la Información con fines agrícolas y/o ambientales",
+    "text": "Usos de la Información con fines agrícolas y/o ambientales\n\nPlanificación estratégica (tiene consecuencias en el largo plazo)\nPlanificación Táctica (consecuencias involucran una estación o un ciclo de cultivo)\nPlanificación operativa (tiene consecuencias en el corto plazo)\nInterpretación de resultados experimentales"
+  },
+  {
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "",
+    "text": "Sesión práctica\nFuentes de datos climáticos, descarga y procesamientos básicos"
+  },
+  {
+    "objectID": "index.html#usos-de-la-información-con-fines-agrícolas-yo-ambientales-1",
+    "href": "index.html#usos-de-la-información-con-fines-agrícolas-yo-ambientales-1",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Usos de la Información con fines agrícolas y/o ambientales",
+    "text": "Usos de la Información con fines agrícolas y/o ambientales\n\n\n\n\nTipo de uso\n\n\nDatos climáticos requeridos\n\n\nProductos\n\n\nActividades que apoya\n\n\n\n\nPlanificación EstratégicaConsecuencias a largo plazo\n\n\nRegistros largos (&gt; 20 años)\n\n\nValores probables, promedio, fluctuaciones, extremos, períodos de retorno\n\n\nSelección de especies • Zonificación de cultivos • Uso y manejo de la tierra • Selección de sistemas de labranza • Diseño de infraestructura • Calendarios agrícolas\n\n\n\n\nPlanificación Táctica y OperativaConsecuencias a corto plazo\n\n\nSituación actual + pronóstico + registro histórico\n\n\nPronóstico y recomendación para próximas horas\n\n\nDecisión de siembra y cosecha • Control de temperatura y humedad • Operación de riego\n\n\n\n\nInvestigaciónGeneración de nuevos conocimientos\n\n\nMedidos en el lugar de ensayo + registros\n\n\nDescripción de condiciones del ensayo y comparación\n\n\nComprensión de procesos y relaciones"
+  },
+  {
+    "objectID": "index.html#asi-entonces..",
+    "href": "index.html#asi-entonces..",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Asi entonces..",
+    "text": "Asi entonces..\nLa información climática es una entrada importante para el diseño, desarrollo y sostenibilidad de un amplio rango de actividades en diversos sectores socio económicos:\n\nAgricultura\nPlanificación urbana\nManejo de recursos energéticos y agua\nTransporte\nTurismo\nOperación de infraestructura"
+  },
+  {
+    "objectID": "index.html#el-clima-como-una-fuente-de-riesgo",
+    "href": "index.html#el-clima-como-una-fuente-de-riesgo",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "El clima como una fuente de riesgo",
+    "text": "El clima como una fuente de riesgo\n\nVariaciones en los elementos climáticos a lo largo del año\nVariaciones en los elementos entre años\nVariaciones en fechas de inicio y término de los períodos húmedos\nEventos extremos:Lluvias, Sequias, Vientos, Olas de calor o de frío\nCambio climático"
+  }
+]

@@ -1,0 +1,426 @@
+---
+title: "Clase 01: Introducción a la Climatología Agroambiental"
+author: "Prof. Miguel Silva" 
+format:
+  revealjs:
+    incremental: true
+    theme: simple 
+    slide-number: true
+    chalkboard: true
+    transition: slide
+editor: visual
+---
+
+## Contenido
+
+-El clima como parte del ambiente físico y su importancia
+
+-Características del clima como recurso
+
+-Usos agroambientales de la información climática: planificación estratégica, táctica y operativa
+
+-Pasos para la aplicación de información climática; medición y procesamiento
+
+-Integración con la información sobre la aplicación
+
+## Personal docente
+
+Prof. Miguel Silva
+
+Prof. Naghely Mendoza
+
+## Estructura de la asignatura
+
+\-**Tema 1.** Introducción y conceptos básicos
+
+\-**Tema 2.** Radiación y Balance energético
+
+\-**Tema 3.** Temperatura
+
+\-**Tema 4.** Evaporación y Evapotranspiración
+
+\-**Tema 5.** Precipitación y régimen hídrico
+
+\-**Tema 6.** Aplicaciones de la climatología
+
+## Los sistemas de producción agrícola y los ecosistemas naturales
+
+<small> No dependen de un solo factor, sino de la interacción entre varios componentes del ambiente y de la acción humana. </small>
+
+-   🌱 **Suelo** - 🖐️ **Prácticas de manejo**
+-   🌍 **Ambiente físico** - 🌳 **Ecosistemas naturales**
+-   🦠 **Agentes bióticos** - 💰 **Aspectos socioeconómicos**
+-   ⚙️ **Tecnología** - 🧬 **Potencial genético de la variedad o raza**
+
+<small> La climatología agroambiental no estudia solo el clima como dato meteorológico, sino cómo ese clima se relaciona con el funcionamiento real de los sistemas productivos y naturales. </small>
+
+## 
+
+::::: columns
+::: {.column width="50%"}
+**Tiempo meteorológico**
+
+</small> </small> Condición de la atmósfera en un momento particular definida por el comportamiento de los elementos climáticos en ese momento </small> </small>
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Venezuela_K%C3%B6ppen.png/330px-Venezuela_K%C3%B6ppen.png)
+:::
+
+::: {.column width="50%"}
+**Clima**
+
+</small> </small> Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007) </small> </small>
+
+![](https://johnnyjet.com/wp-content/uploads/2018/09/Windy-e1537300028330.png)
+:::
+:::::
+
+## Factores del clima
+
+Son características de la superficie terrestre o condiciones de la atmósfera que modifican a los elementos climáticos
+
+-   Latitud
+
+-   Altitud
+
+-   Cercanía a masas de agua
+
+-   Topografía
+
+-   Distribución de las masas de tierra y agua
+
+-   Corrientes oceánicas
+
+-   Centros de altas y bajas presiones
+
+-   Masas de aire
+
+## La agrometeorología
+
+-   Estudia la acción mutua de las variables atmosféricas y la agricultura en su sentido más amplio.
+
+-   Comprende desde la capa de suelo donde crecen las raíces mas profundas de árboles y plantas, pasando por la capa de aire próxima al suelo, en la que viven cultivos, árboles y animales, hasta alcanzar los más elevados niveles de la atmosfera en donde ocurren procesos como transporte y dispersión de polvo, semillas y polen.
+
+## Necesidad de formación básica en agrometeorología
+
+-   Conocimiento básico de los elementos climáticos y su efecto en el ambiente y la agricultura (cultivos y labores)
+
+-   Conocimiento de las características generales del clima del país: de los patrones de sus elementos climáticos, de su variabilidad temporal y espacial
+
+-   Manejo de métodos estadísticos para la evaluación del clima y uso de herramientas para el análisis de las consecuencias agrícolas y ambientales de las condiciones climáticas.
+
+## El Clima como recurso
+
+-   Provee condiciones de radiación, temperatura y agua para la vida.
+
+-   Determina los ciclos bioquímicos.
+
+-   Determina la fotosíntesis y la respiración
+
+-   Provee insumos para la actividad humana: agricultura, industria, doméstica, transporte, turismo, recreación.
+
+-   Fuente de energía.
+
+-   La atmósfera absorbe productos de desecho de las actividades económicas y sociales.
+
+## El clima como una fuente de riesgo
+
+-   Variaciones en los elementos climáticos a lo largo del año
+
+-   Variaciones en los elementos entre años
+
+-   Variaciones en fechas de inicio y término de los períodos húmedos
+
+-   Eventos extremos:Lluvias, Sequias, Vientos, Olas de calor o de frío
+
+-   Cambio climático
+
+## Particularidades del clima como recurso
+
+-   Estamos familiarizados con la idea de recursos para la producción que se manejan a través de la aplicación de insumos, o del mejoramiento genético, no obstante..
+
+-   Se trata de un recurso generalmente no “controlable” en el sentido tradicional.
+
+-   Manejar el recurso clima, implica tomar decisiones estratégicas, tácticas y operativas para armonizar la oferta y las limitaciones climáticas con los requerimientos climáticos.
+
+## Particularidades del clima como recurso
+
+Debemos garantizar que confluya el mecanismo análogo al enzima-sustrato:
+
+-   Enzima = Oferta = Clima
+
+-   Sustrato = Demanda = Requerimientos de cultivos, plagas y labores
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Complejo_enzima-sustrato_%28llave-cerradura%29.jpg)
+
+## A traves de la armonización entre la oferta y la demanda climática se busca:
+
+-   Maximizar rendimientos
+
+-   Mejorar el uso de recursos
+
+-   Reducir Riesgos
+
+-   Reducir costos
+
+-   Reducir daños ambientales
+
+## Particularidades del clima como recurso para la producción agrícola
+
+-   En muchas áreas de la agronomía se acostumbra resumir los datos utilizando el promedio 🛑 ❌
+
+-   Debido a su gran variabilidad espacial y temporal.
+
+-   Los profesionales tienen que ser formados para que analicen el clima en términos de probabilidad y para que comprendan que dicha variabilidad es una fuente muy importante de riesgo agrícola. ✅
+
+##  {.center}
+
+**LAS CONDICIONES ATMOSFÉRICAS VARÍAN EN DIVERSAS ESCALAS TEMPORALES**
+
+## Variación a corto plazo
+
+```{r}
+library(ggplot2)
+
+# Datos: 31 días de agosto
+set.seed(123)
+dias <- 1:31
+lluvia_diaria <- round(rgamma(31, shape = 2, scale = 8), 1)
+
+datos <- data.frame(
+  dia = dias,
+  mm = lluvia_diaria
+)
+
+# Gráfico
+ggplot(datos, aes(x = dia, y = mm)) +
+  geom_bar(stat = "identity", fill = "#4DA8DA", alpha = 0.8) +
+  labs(title = "Precipitación diaria - Agosto",
+       subtitle = "Localidad: Santiago, Chile",
+       x = "Día del mes",
+       y = "Milímetros (mm)") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5, size = 16))
+```
+
+## Variación a largo del ano
+
+```{r}
+library(ggplot2)
+
+# Generar datos diarios para todo el año
+set.seed(123)
+dias <- 1:365
+lluvia_diaria <- round(rgamma(365, shape = 0.8, scale = 5), 1)
+
+datos_diarios <- data.frame(
+  dia = dias,
+  mm = lluvia_diaria
+)
+
+ggplot(datos_diarios, aes(x = dia, y = mm)) +
+  geom_line(color = "#2E86C1", alpha = 0.7) +
+  geom_smooth(color = "red", se = FALSE, size = 1) +
+  labs(title = "Precipitación diaria - Año completo",
+       x = "Día del año",
+       y = "Milímetros (mm)") +
+  theme_minimal()
+```
+
+## Variacion interanual
+
+```{r}
+library(ggplot2)
+library(reshape2)
+
+# Datos: Precipitaciones mensuales para 5 años (mismo lugar)
+meses <- month.abb
+
+datos_anuales <- data.frame(
+  Mes = meses,
+  Año_2020 = c(0, 20, 10, 58, 60, 88, 110, 150, 68, 11, 43, 0),
+  Año_2021 = c(0, 5, 40, 16, 100, 101, 62, 75, 60, 45, 38, 40),
+  Año_2022 = c(0, 35, 12, 80, 36, 92, 23, 90, 72, 8, 10, 0),
+  Año_2023 = c(5, 2, 0, 48, 17, 68, 100, 65, 10, 42, 0, 1),
+  Año_2024 = c(1, 0, 10, 8, 30, 85, 40, 100, 5, 2, 10, 10)
+)
+
+# Convertir Mes a factor con orden correcto (Enero a Diciembre)
+datos_anuales$Mes <- factor(datos_anuales$Mes, levels = month.abb)
+
+# Transformar para ggplot
+datos_long <- melt(datos_anuales, id.vars = "Mes", 
+                   variable.name = "Año", value.name = "Precipitacion")
+
+ggplot(datos_long, aes(x = Mes, y = Precipitacion, color = Año, group = Año)) +
+  geom_line(size = 1.2) +
+  geom_point(size = 2) +
+  labs(title = "Comparación de precipitaciones mensuales (2020-2024)",
+       subtitle = "Misma localidad - Variación interanual",
+       x = "Mes",
+       y = "Precipitación (mm)") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "bottom")
+```
+
+## Variacion espacial
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Venezuela_Temperature_Regime.png/960px-Venezuela_Temperature_Regime.png)
+
+##  {.center}
+
+**Variabilidad climática:**
+
+Variaciones del estado medio y otras características estadísticas (desviación típica, sucesos extremos, etc.) del clima en todas las escalas espaciales y temporales más amplias que las de los fenómenos meteorológicos (IPCC, 2023)
+
+## 
+
+::::: {style="display: flex; justify-content: center; gap: 50px; margin-bottom: 30px;"}
+<!-- Rama izquierda: Datos climáticos -->
+
+::: {style="background: #E3F2FD; border: 2px solid #1E88E5; border-radius: 10px; padding: 20px; width: 40%; text-align: center; font-size: 25px;"}
+<strong style="font-size: 25px;">📊 Datos climáticos</strong><br> <br> Radiación, Fotoperíodo,<br> Insolación, Temperatura,<br> Precipitación, Evaporación, Viento
+:::
+
+<!-- Rama derecha: Datos agronómicos -->
+
+::: {style="background: #E8F5E9; border: 2px solid #43A047; border-radius: 10px; padding: 20px; width: 40%; text-align: center; font-size: 25px;"}
+<strong style="font-size: 25px;">🌱 Datos agronómicos y ambientales</strong><br> <br> Cultivo, Suelo, Labores, Pendiente,<br> Relieve, Plagas, Enfermedades
+:::
+:::::
+
+<!-- Flechas que bajan desde ambas -->
+
+::::: {style="display: flex; justify-content: center; gap: 50px; margin-bottom: 20px;"}
+::: {style="width: 40%; text-align: center; font-size: 25px;"}
+⬇️
+:::
+
+::: {style="width: 40%; text-align: center; font-size: 25px;"}
+⬇️
+:::
+:::::
+
+<!-- Caja de unión -->
+
+:::: {style="display: flex; justify-content: center; margin-bottom: 20px;"}
+::: {style="background: #FFF3E0; border: 2px solid #FB8C00; border-radius: 10px; padding: 15px; width: 60%; text-align: center; font-size: 25px;"}
+<strong style="font-size: 25px;">ℹ️ Información con fines agrícolas y ambientales</strong>
+:::
+::::
+
+<!-- Flecha hacia abajo -->
+
+:::: {style="display: flex; justify-content: center; margin-bottom: 20px;"}
+::: {style="font-size: 24px;"}
+⬇️
+:::
+::::
+
+<!-- Caja final -->
+
+:::: {style="display: flex; justify-content: center;"}
+::: {style="background: #FFEBEE; border: 3px solid #E53935; border-radius: 10px; padding: 20px; width: 60%; text-align: center; font-weight: bold; font-size: 25px;"}
+🎯 <strong>TOMA DE DECISIONES</strong>
+:::
+::::
+
+## Pasos para la aplicación de la información climática
+
+:::::::::::::: {style="display: flex; flex-direction: column; align-items: center; gap: 15px;"}
+<!-- Caja 1: Datos brutos -->
+
+::: {style="background: #E3F2FD; border: 2px solid #1E88E5; border-radius: 10px; padding: 15px; width: 40%; text-align: center; font-size: 16px;"}
+<strong style="font-size: 21px;">📋 Datos brutos</strong><br> Datos estimados, Datos generados, Medición
+:::
+
+::: {style="font-size: 20px;"}
+⬇️
+:::
+
+<!-- Caja 2 y 3: Bases de datos (lado a lado) -->
+
+::::: {style="display: flex; justify-content: center; gap: 30px; width: 100%;"}
+::: {style="background: #E3F2FD; border: 2px solid #1E88E5; border-radius: 10px; padding: 15px; width: 35%; text-align: center; font-size: 20px;"}
+<strong style="font-size: 21px;">🌡️ Bases de datos climáticos</strong>
+:::
+
+::: {style="background: #E8F5E9; border: 2px solid #43A047; border-radius: 10px; padding: 15px; width: 35%; text-align: center; font-size: 20px;"}
+<strong style="font-size: 21px;">🗄️ Bases de datos agroambientales</strong>
+:::
+:::::
+
+<!-- Flechas desde ambas -->
+
+::::: {style="display: flex; justify-content: center; gap: 30px; width: 100%;"}
+::: {style="width: 35%; text-align: center; font-size: 20px;"}
+⬇️
+:::
+
+::: {style="width: 35%; text-align: center; font-size: 20px;"}
+⬇️
+:::
+:::::
+
+<!-- Caja de unión: Procesamiento -->
+
+::: {style="background: #FFF3E0; border: 2px solid #FB8C00; border-radius: 10px; padding: 15px; width: 50%; text-align: center; font-size: 16px;"}
+<strong style="font-size: 21px;">⚙️ PROCESAMIENTO<br>Control de calidad</strong>
+:::
+
+::: {style="font-size: 20px;"}
+⬇️
+:::
+
+<!-- Caja final -->
+
+::: {style="background: #FFEBEE; border: 3px solid #E53935; border-radius: 10px; padding: 15px; width: 70%; text-align: center; font-size: 20px;"}
+<strong style="font-size: 21px;">🎯 INFORMACIÓN CON FINES AGRÍCOLAS Y/O AMBIENTALES</strong>
+:::
+::::::::::::::
+
+## Usos de la Información con fines agrícolas y/o ambientales
+
+-   Planificación estratégica (tiene consecuencias en el largo plazo)
+
+-   Planificación Táctica (consecuencias involucran una estación o un ciclo de cultivo)
+
+-   Planificación operativa (tiene consecuencias en el corto plazo)
+
+-   Interpretación de resultados experimentales
+
+## Usos de la Información con fines agrícolas y/o ambientales
+
+::: {style="overflow-x: auto;"}
++----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Tipo de uso                            | Datos climáticos requeridos                        | Productos                                                                 | Actividades que apoya                                                                                                                                                |
++========================================+====================================================+===========================================================================+======================================================================================================================================================================+
+| **Planificación Estratégica**\         | Registros largos (\> 20 años)                      | Valores probables, promedio, fluctuaciones, extremos, períodos de retorno | Selección de especies • Zonificación de cultivos • Uso y manejo de la tierra • Selección de sistemas de labranza • Diseño de infraestructura • Calendarios agrícolas |
+| Consecuencias a largo plazo            |                                                    |                                                                           |                                                                                                                                                                      |
++----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Planificación Táctica y Operativa**\ | Situación actual + pronóstico + registro histórico | Pronóstico y recomendación para próximas horas                            | Decisión de siembra y cosecha • Control de temperatura y humedad • Operación de riego                                                                                |
+| Consecuencias a corto plazo            |                                                    |                                                                           |                                                                                                                                                                      |
++----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Investigación**\                     | Medidos en el lugar de ensayo + registros          | Descripción de condiciones del ensayo y comparación                       | Comprensión de procesos y relaciones                                                                                                                                 |
+| Generación de nuevos conocimientos     |                                                    |                                                                           |                                                                                                                                                                      |
++----------------------------------------+----------------------------------------------------+---------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::
+
+## Asi entonces..
+
+La información climática es una entrada importante para el diseño, desarrollo y sostenibilidad de un amplio rango de actividades en diversos sectores socio económicos:
+
+-   Agricultura
+-   Planificación urbana
+-   Manejo de recursos energéticos y agua
+-   Transporte
+-   Turismo
+-   Operación de infraestructura
+
+##  {.center}
+
+**Sesión práctica**
+
+Fuentes de datos climáticos, descarga y procesamientos básicos
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/960px-RStudio_logo_flat.svg.png)

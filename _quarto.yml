@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+about:
+    template: solana       
+    image-shape: rounded  
+
+format:
+  html:
+    theme:
+      - default
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+
+
+
+
+
+
+
