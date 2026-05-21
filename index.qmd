@@ -3,7 +3,6 @@ title: "Clase 01: Introducción a la Climatología Agroambiental"
 author: "Prof. Miguel Silva"  
 format:
   revealjs:
-    incremental: true
     theme: simple 
     slide-number: true
     chalkboard: true
