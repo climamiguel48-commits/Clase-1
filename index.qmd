@@ -70,7 +70,7 @@ Prof. Naghely Mendoza
 
 </small> </small> Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007) </small> </small>
 
-![](https://johnnyjet.com/wp-content/uploads/2018/09/Windy-e1537300028330.png)
+![](lluviaeto.png){fig-alt="Gráfico de barras de lluvia y evapotranspiración diaria"}
 :::
 :::::
 
@@ -150,7 +150,7 @@ Debemos garantizar que confluya el mecanismo análogo al enzima-sustrato:
 
 -   Sustrato = Demanda = Requerimientos de cultivos, plagas y labores
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Complejo_enzima-sustrato_%28llave-cerradura%29.jpg)
+![](Complejo_enzima-sustrato_(llave-cerradura).jpg)
 
 ## A traves de la armonización entre la oferta y la demanda climática se busca:
 
@@ -178,94 +178,19 @@ Debemos garantizar que confluya el mecanismo análogo al enzima-sustrato:
 
 ## Variación a corto plazo
 
-```{r}
-library(ggplot2)
-
-# Datos: 31 días de agosto
-set.seed(123)
-dias <- 1:31
-lluvia_diaria <- round(rgamma(31, shape = 2, scale = 8), 1)
-
-datos <- data.frame(
-  dia = dias,
-  mm = lluvia_diaria
-)
-
-# Gráfico
-ggplot(datos, aes(x = dia, y = mm)) +
-  geom_bar(stat = "identity", fill = "#4DA8DA", alpha = 0.8) +
-  labs(title = "Precipitación diaria - Agosto",
-       subtitle = "Localidad: Santiago, Chile",
-       x = "Día del mes",
-       y = "Milímetros (mm)") +
-  theme_minimal() +
-  theme(plot.title = element_text(hjust = 0.5, size = 16))
-```
+![](lluvia.png)
 
 ## Variación a largo del ano
 
-```{r}
-library(ggplot2)
-
-# Generar datos diarios para todo el año
-set.seed(123)
-dias <- 1:365
-lluvia_diaria <- round(rgamma(365, shape = 0.8, scale = 5), 1)
-
-datos_diarios <- data.frame(
-  dia = dias,
-  mm = lluvia_diaria
-)
-
-ggplot(datos_diarios, aes(x = dia, y = mm)) +
-  geom_line(color = "#2E86C1", alpha = 0.7) +
-  geom_smooth(color = "red", se = FALSE, size = 1) +
-  labs(title = "Precipitación diaria - Año completo",
-       x = "Día del año",
-       y = "Milímetros (mm)") +
-  theme_minimal()
-```
+![](lluvia2.png)
 
 ## Variacion interanual
 
-```{r}
-library(ggplot2)
-library(reshape2)
-
-# Datos: Precipitaciones mensuales para 5 años (mismo lugar)
-meses <- month.abb
-
-datos_anuales <- data.frame(
-  Mes = meses,
-  Año_2020 = c(0, 20, 10, 58, 60, 88, 110, 150, 68, 11, 43, 0),
-  Año_2021 = c(0, 5, 40, 16, 100, 101, 62, 75, 60, 45, 38, 40),
-  Año_2022 = c(0, 35, 12, 80, 36, 92, 23, 90, 72, 8, 10, 0),
-  Año_2023 = c(5, 2, 0, 48, 17, 68, 100, 65, 10, 42, 0, 1),
-  Año_2024 = c(1, 0, 10, 8, 30, 85, 40, 100, 5, 2, 10, 10)
-)
-
-# Convertir Mes a factor con orden correcto (Enero a Diciembre)
-datos_anuales$Mes <- factor(datos_anuales$Mes, levels = month.abb)
-
-# Transformar para ggplot
-datos_long <- melt(datos_anuales, id.vars = "Mes", 
-                   variable.name = "Año", value.name = "Precipitacion")
-
-ggplot(datos_long, aes(x = Mes, y = Precipitacion, color = Año, group = Año)) +
-  geom_line(size = 1.2) +
-  geom_point(size = 2) +
-  labs(title = "Comparación de precipitaciones mensuales (2020-2024)",
-       subtitle = "Misma localidad - Variación interanual",
-       x = "Mes",
-       y = "Precipitación (mm)") +
-  theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1),
-        legend.position = "bottom")
-```
+![](lluvia3.png)
 
 ## Variacion espacial
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Venezuela_Temperature_Regime.png/960px-Venezuela_Temperature_Regime.png)
+![](Venezuela_Temperature_Regime.png)
 
 ##  {.center}
 
