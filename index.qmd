@@ -5,9 +5,10 @@ format:
   revealjs:
     theme: simple 
     slide-number: true
+    highlight-style: github
     chalkboard: true
     transition: slide
-editor: visual
+    footer: ""
 ---
 
 ## Contenido
