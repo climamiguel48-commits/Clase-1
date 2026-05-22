@@ -60,20 +60,21 @@ Prof. Naghely Mendoza
 
 ::::: columns
 ::: {.column width="50%"}
+
 **Tiempo meteorológico**
 
-</small> </small> Condición de la atmósfera en un momento particular definida por el comportamiento de los elementos climáticos en ese momento </small> </small>
+Condición de la atmósfera en un momento particular definida por el comportamiento de los elementos climáticos en ese momento 
 
-![](Venezuela_Köppen.png)
+![](tiempo.png)
 
 :::
 
 ::: {.column width="50%"}
 **Clima**
 
-</small> </small> Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007) </small> </small>
+Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007) 
 
-![](tiempo.png)
+![](Venezuela_Köppen.png)
 
 :::
 :::::
