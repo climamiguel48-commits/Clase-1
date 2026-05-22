@@ -64,7 +64,8 @@ Prof. Naghely Mendoza
 
 </small> </small> Condición de la atmósfera en un momento particular definida por el comportamiento de los elementos climáticos en ese momento </small> </small>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Venezuela_K%C3%B6ppen.png/330px-Venezuela_K%C3%B6ppen.png)
+![](tiempo.png)
+
 :::
 
 ::: {.column width="50%"}
@@ -72,7 +73,8 @@ Prof. Naghely Mendoza
 
 </small> </small> Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007) </small> </small>
 
-![](tiempo.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Venezuela_K%C3%B6ppen.png/330px-Venezuela_K%C3%B6ppen.png)
+
 :::
 :::::
 
@@ -212,7 +214,7 @@ Son características de la superficie terrestre o condiciones de la atmósfera q
 
 ![](lluvia.png)
 
-## Variación a largo del ano
+## Variación a largo del año
 
 ![](lluvia2.png)
 
