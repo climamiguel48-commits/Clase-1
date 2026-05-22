@@ -146,7 +146,7 @@ Son características de la superficie terrestre o condiciones de la atmósfera q
 
 -   Manejar el recurso clima, implica tomar decisiones estratégicas, tácticas y operativas para armonizar la oferta y las limitaciones climáticas con los requerimientos climáticos.
 
-## Podemos abordar esta variabilidad a traves del mecanismo análogo al enzima-sustrato:
+## Podemos abordar esta variabilidad a través del mecanismo análogo al enzima-sustrato:
 
 - Enzima = Oferta = Clima
 
