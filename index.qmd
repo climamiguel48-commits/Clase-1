@@ -73,7 +73,7 @@ Prof. Naghely Mendoza
 
 </small> </small> Descripción estadística del tiempo meteorológico en términos de sus valores medios y de la variabilidad de sus magnitudes durante períodos que pueden abarcar desde meses hasta millares o millones de años (IPCC, 2007) </small> </small>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Venezuela_K%C3%B6ppen.png/330px-Venezuela_K%C3%B6ppen.png)
+![](Venezuela_Köppen.png)
 
 :::
 :::::
