@@ -54,6 +54,8 @@ Prof. Naghely Mendoza
 
 <small> La climatología agroambiental no estudia solo el clima como dato meteorológico, sino cómo ese clima se relaciona con el funcionamiento real de los sistemas productivos y naturales. </small>
 
+## ¿Conceptos fundamentales? 🤔 ⁉️ {.center}
+
 ## 
 
 ::::: columns
@@ -108,6 +110,8 @@ Son características de la superficie terrestre o condiciones de la atmósfera q
 
 -   Manejo de métodos estadísticos para la evaluación del clima y uso de herramientas para el análisis de las consecuencias agrícolas y ambientales de las condiciones climáticas.
 
+## El clima es un recurso pero tambien representa riesgos ⛈️☀️ 🌤️🌪️️{.center} 
+
 ## El Clima como recurso
 
 -   Provee condiciones de radiación, temperatura y agua para la vida.
@@ -142,13 +146,11 @@ Son características de la superficie terrestre o condiciones de la atmósfera q
 
 -   Manejar el recurso clima, implica tomar decisiones estratégicas, tácticas y operativas para armonizar la oferta y las limitaciones climáticas con los requerimientos climáticos.
 
-## Particularidades del clima como recurso
+## Podemos abordar esta variabilidad a traves del mecanismo análogo al enzima-sustrato:
 
-Debemos garantizar que confluya el mecanismo análogo al enzima-sustrato:
+- Enzima = Oferta = Clima
 
--   Enzima = Oferta = Clima
-
--   Sustrato = Demanda = Requerimientos de cultivos, plagas y labores
+- Sustrato = Demanda = Requerimientos de cultivos, plagas y labores
 
 ![](Complejo_enzima-sustrato_(llave-cerradura).jpg)
 
@@ -172,9 +174,7 @@ Debemos garantizar que confluya el mecanismo análogo al enzima-sustrato:
 
 -   Los profesionales tienen que ser formados para que analicen el clima en términos de probabilidad y para que comprendan que dicha variabilidad es una fuente muy importante de riesgo agrícola. ✅
 
-##  {.center}
-
-**LAS CONDICIONES ATMOSFÉRICAS VARÍAN EN DIVERSAS ESCALAS TEMPORALES**
+## Las condiciones atmosféricas varían en diversas escalas temporales 📊 📈 📋 {.center}
 
 ## Variación a corto plazo
 
@@ -198,7 +198,9 @@ Debemos garantizar que confluya el mecanismo análogo al enzima-sustrato:
 
 Variaciones del estado medio y otras características estadísticas (desviación típica, sucesos extremos, etc.) del clima en todas las escalas espaciales y temporales más amplias que las de los fenómenos meteorológicos (IPCC, 2023)
 
-## 
+## Entonces, la arquitectura de la información para la gestión agrícola debe ser ➡️ {.center}
+
+##
 
 ::::: {style="display: flex; justify-content: center; gap: 50px; margin-bottom: 30px;"}
 <!-- Rama izquierda: Datos climáticos -->
@@ -250,7 +252,9 @@ Variaciones del estado medio y otras características estadísticas (desviación
 :::
 ::::
 
-## Pasos para la aplicación de la información climática
+## Pasos para la aplicación de la información climática ➡️ {.center}
+
+##
 
 :::::::::::::: {style="display: flex; flex-direction: column; align-items: center; gap: 15px;"}
 <!-- Caja 1: Datos brutos -->
@@ -378,8 +382,10 @@ La información climática es una entrada importante para el diseño, desarrollo
 
 ##  {.center}
 
-**Sesión práctica**
+**Sesiones prácticas**
 
-Fuentes de datos climáticos, descarga y procesamientos básicos
+- Fuentes de datos meteorológicos 
+
+- Control de calidad de datos meteorológicos 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/960px-RStudio_logo_flat.svg.png)

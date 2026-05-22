@@ -102,7 +102,7 @@
     "href": "index.html#section-1",
     "title": "Clase 01: Introducción a la Climatología Agroambiental",
     "section": "",
-    "text": "LAS CONDICIONES ATMOSFÉRICAS VARÍAN EN DIVERSAS ESCALAS TEMPORALES"
+    "text": "Variabilidad climática:\nVariaciones del estado medio y otras características estadísticas (desviación típica, sucesos extremos, etc.) del clima en todas las escalas espaciales y temporales más amplias que las de los fenómenos meteorológicos (IPCC, 2023)"
   },
   {
     "objectID": "index.html#variación-a-corto-plazo",
@@ -137,21 +137,21 @@
     "href": "index.html#section-2",
     "title": "Clase 01: Introducción a la Climatología Agroambiental",
     "section": "",
-    "text": "Variabilidad climática:\nVariaciones del estado medio y otras características estadísticas (desviación típica, sucesos extremos, etc.) del clima en todas las escalas espaciales y temporales más amplias que las de los fenómenos meteorológicos (IPCC, 2023)"
+    "text": "📊 Datos climáticos  Radiación, Fotoperíodo, Insolación, Temperatura, Precipitación, Evaporación, Viento\n\n\n\n🌱 Datos agronómicos y ambientales  Cultivo, Suelo, Labores, Pendiente, Relieve, Plagas, Enfermedades\n\n\n\n\n\n⬇️\n\n\n⬇️\n\n\n\n\n\nℹ️ Información con fines agrícolas y ambientales\n\n\n\n\n\n⬇️\n\n\n\n\n\n🎯 TOMA DE DECISIONES"
   },
   {
     "objectID": "index.html#section-3",
     "href": "index.html#section-3",
     "title": "Clase 01: Introducción a la Climatología Agroambiental",
     "section": "",
-    "text": "📊 Datos climáticos  Radiación, Fotoperíodo, Insolación, Temperatura, Precipitación, Evaporación, Viento\n\n\n\n🌱 Datos agronómicos y ambientales  Cultivo, Suelo, Labores, Pendiente, Relieve, Plagas, Enfermedades\n\n\n\n\n\n⬇️\n\n\n⬇️\n\n\n\n\n\nℹ️ Información con fines agrícolas y ambientales\n\n\n\n\n\n⬇️\n\n\n\n\n\n🎯 TOMA DE DECISIONES"
+    "text": "📋 Datos brutos Datos estimados, Datos generados, Medición\n\n\n⬇️\n\n\n\n\n🌡️ Bases de datos climáticos\n\n\n🗄️ Bases de datos agroambientales\n\n\n\n\n\n⬇️\n\n\n⬇️\n\n\n\n\n⚙️ PROCESAMIENTOControl de calidad\n\n\n⬇️\n\n\n\n🎯 INFORMACIÓN CON FINES AGRÍCOLAS Y/O AMBIENTALES"
   },
   {
     "objectID": "index.html#pasos-para-la-aplicación-de-la-información-climática",
     "href": "index.html#pasos-para-la-aplicación-de-la-información-climática",
     "title": "Clase 01: Introducción a la Climatología Agroambiental",
-    "section": "Pasos para la aplicación de la información climática",
-    "text": "Pasos para la aplicación de la información climática\n\n\n\n📋 Datos brutos Datos estimados, Datos generados, Medición\n\n\n⬇️\n\n\n\n\n🌡️ Bases de datos climáticos\n\n\n🗄️ Bases de datos agroambientales\n\n\n\n\n\n⬇️\n\n\n⬇️\n\n\n\n\n⚙️ PROCESAMIENTOControl de calidad\n\n\n⬇️\n\n\n\n🎯 INFORMACIÓN CON FINES AGRÍCOLAS Y/O AMBIENTALES"
+    "section": "Pasos para la aplicación de la información climática ➡️",
+    "text": "Pasos para la aplicación de la información climática ➡️"
   },
   {
     "objectID": "index.html#usos-de-la-información-con-fines-agrícolas-yo-ambientales",
@@ -179,6 +179,62 @@
     "href": "index.html#section-4",
     "title": "Clase 01: Introducción a la Climatología Agroambiental",
     "section": "",
-    "text": "Sesión práctica\nFuentes de datos climáticos, descarga y procesamientos básicos"
+    "text": "Sesiones prácticas\n\nFuentes de datos meteorológicos\nControl de calidad de datos meteorológicos"
+  },
+  {
+    "objectID": "index.html#pasos-para-la-aplicación-de-la-información-climática-1",
+    "href": "index.html#pasos-para-la-aplicación-de-la-información-climática-1",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Pasos para la aplicación de la información climática",
+    "text": "Pasos para la aplicación de la información climática\n\n\n\n📋 Datos brutos Datos estimados, Datos generados, Medición\n\n\n⬇️\n\n\n\n\n🌡️ Bases de datos climáticos\n\n\n🗄️ Bases de datos agroambientales\n\n\n\n\n\n⬇️\n\n\n⬇️\n\n\n\n\n⚙️ PROCESAMIENTOControl de calidad\n\n\n⬇️\n\n\n\n🎯 INFORMACIÓN CON FINES AGRÍCOLAS Y/O AMBIENTALES"
+  },
+  {
+    "objectID": "index.html#la-arquitectura-de-la-información-para-la-gestión-agrícola",
+    "href": "index.html#la-arquitectura-de-la-información-para-la-gestión-agrícola",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "La arquitectura de la información para la gestión agrícola ➡️",
+    "text": "La arquitectura de la información para la gestión agrícola ➡️"
+  },
+  {
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "",
+    "text": "Sesiones prácticas\n\nFuentes de datos meteorológicos\nControl de calidad de datos meteorológicos"
+  },
+  {
+    "objectID": "index.html#entonces-la-arquitectura-de-la-información-para-la-gestión-agrícola-debe-ser",
+    "href": "index.html#entonces-la-arquitectura-de-la-información-para-la-gestión-agrícola-debe-ser",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Entonces, la arquitectura de la información para la gestión agrícola debe ser ➡️",
+    "text": "Entonces, la arquitectura de la información para la gestión agrícola debe ser ➡️"
+  },
+  {
+    "objectID": "index.html#conceptos-fundamentales",
+    "href": "index.html#conceptos-fundamentales",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "¿Conceptos fundamentales? 🤔 ⁉️",
+    "text": "¿Conceptos fundamentales? 🤔 ⁉️"
+  },
+  {
+    "objectID": "index.html#las-condiciones-atmosféricas-varían-en-diversas-escalas-temporales",
+    "href": "index.html#las-condiciones-atmosféricas-varían-en-diversas-escalas-temporales",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Las condiciones atmosféricas varían en diversas escalas temporales 📊 📈 📋",
+    "text": "Las condiciones atmosféricas varían en diversas escalas temporales 📊 📈 📋"
+  },
+  {
+    "objectID": "index.html#el-clima-es-un-recurso-pero-tambien-representa-riesgos",
+    "href": "index.html#el-clima-es-un-recurso-pero-tambien-representa-riesgos",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "El clima es un recurso pero tambien representa riesgos ⛈️☀️ 🌤️🌪️️",
+    "text": "El clima es un recurso pero tambien representa riesgos ⛈️☀️ 🌤️🌪️️"
+  },
+  {
+    "objectID": "index.html#podemos-abordar-esta-variabilidad-a-traves-del-mecanismo-análogo-al-enzima-sustrato",
+    "href": "index.html#podemos-abordar-esta-variabilidad-a-traves-del-mecanismo-análogo-al-enzima-sustrato",
+    "title": "Clase 01: Introducción a la Climatología Agroambiental",
+    "section": "Podemos abordar esta variabilidad a traves del mecanismo análogo al enzima-sustrato:",
+    "text": "Podemos abordar esta variabilidad a traves del mecanismo análogo al enzima-sustrato:\n\nEnzima = Oferta = Clima\nSustrato = Demanda = Requerimientos de cultivos, plagas y labores"
   }
 ]
